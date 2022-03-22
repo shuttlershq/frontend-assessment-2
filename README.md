@@ -9,8 +9,7 @@ You are expected to use their Intuition and creativity to fill in the missing bl
 
 Please take note of the following points:
 
-- Only use Vue or React to get it done
-- You have just 2 days to complete the test.
+- Only use VueJs to get it done
 - Any Css framework is fine. Tailwindcss will be an added advantage
 - A Mobile Responsive design will be an added advantage
 - Also make sure that your project is on github and accessible to us
